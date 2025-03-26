@@ -16,7 +16,7 @@
         <img
             alt="Total de estrelas"
             title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/lcssilvaa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/tiagohenrique531?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/tiagohenrique531?tab=followers">
@@ -33,9 +33,9 @@
 ### 🧑‍💻 Redes Sociais
 
 <p align="left">
-<a href="https://www.linkedin.com/in/tiago-henrique-65370a230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-silva-rodrigues-88a3522b4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tiago-henrique-65370a230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago-henrique-65370a230" height="30" width="40" /></a>
 <a href="https://instagram.com/_th_888_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_th_888_" height="30" width="40" /></a>
-<a href="https://discord.gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lcs.silvaa" height="30" width="40" /></a>
+<a href="https://discord.gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tiago.henrique" height="30" width="40" /></a>
 
 ---
 
@@ -79,7 +79,7 @@
     alt="GitHub Stats"
     height="150"
     style="padding-right: 10px;"  
-    src="https://github-readme-stats.vercel.app/api?username=lcssilvaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-pt"
+    src="https://github-readme-stats.vercel.app/api?username=tiagohenrique531&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-pt"
   />
 
 <img
